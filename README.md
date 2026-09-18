@@ -13,7 +13,7 @@ I currently construct the entire research process end to end — from raw market
 
 My approach starts from the view that prices follow stochastic processes. I use machine learning as one quantitative tool for studying those processes, not as a substitute for market structure, measurement, or economic reasoning.
 
-**Selected work:** [QIP — Adverse-Selection Markouts and Execution-State Measurement](https://github.com/snowkings/QIP_adverse_selection) — an empirical study of short-horizon midpoint markouts around a limit-order-book fair-price estimator and the implications for execution.
+**Selected work:** [QIP — Adverse-Selection Markouts and Execution-State Measurement](https://github.com/snowkings/QIP_adverse_selection) — an empirical study of short-horizon midpoint markouts following QIP displacement and what they imply for execution.
 
 📫 [william@starcommoditiesnyc.com](mailto:william@starcommoditiesnyc.com)
 
