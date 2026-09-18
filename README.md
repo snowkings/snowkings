@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @snowkings
-- 👀 I’m interested in data sets wrt finance with a focus on stock options
-- 🌱 I’m currently learning to structure data for M.L. predictive functions
-- 💞️ I’m looking to collaborate with a data scientist to properly structure correlated financial parameters.
-- 📫 How to reach me My e-mail is wk.whlr2@verizon.net
+### William Karkut
 
-<!---
-snowkings/snowkings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Independent trader and quantitative researcher with a market background spanning futures, commodities, derivatives, and market structure.
+
+I currently construct the entire research process end to end — from raw market data to reproducible, probability-based trading decisions.
+
+**Areas of focus**
+
+* **Futures and commodities** — energy markets, term structure, and the relationship between physical and financial markets.
+* **Derivatives and cross-market structure** — equity-index and single-stock options, implied volatility, skew, term structure, and rates/funding relationships.
+* **Market microstructure and execution** — limit-order-book state, liquidity, adverse selection, markouts, and the measurement required to design execution around those conditions.
+* **Quantitative research and modeling** — causal feature engineering, sequence-based models, and reproducible out-of-sample evaluation.
+
+My approach starts from the view that prices follow stochastic processes. I use machine learning as one quantitative tool for studying those processes, not as a substitute for market structure, measurement, or economic reasoning.
+
+**Selected work:** [QIP — Adverse-Selection Markouts and Execution-State Measurement](https://github.com/snowkings/QIP_adverse_selection) — an empirical study of short-horizon midpoint markouts around a limit-order-book fair-price estimator and the implications for execution.
+
+📫 [william@starcommoditiesnyc.com](mailto:william@starcommoditiesnyc.com)
+
